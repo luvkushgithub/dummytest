@@ -1,4 +1,4 @@
 testing from local for local repository
-
 testing  for remote repo from remote 
+merge both
 
